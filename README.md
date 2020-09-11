@@ -1,2 +1,2 @@
 # Statistics-Python
-Statistic with Python Code
+Statistics with Python Code
