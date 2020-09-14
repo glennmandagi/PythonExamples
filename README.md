@@ -1,2 +1,2 @@
-# Statistics-Python
-Statistics with Python Code
+# PythonExamples
+Examples of Python Code
